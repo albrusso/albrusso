@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm  from Pisa, Italy and I'm 23 years old<br><br>- 📚 I'm currently studying at 42Firenze</p>
+<p align="left">I'm  from Pisa, Italy and I'm 24 years old<br><br>- 📚 I'm currently studying at 42Firenze</p>
 
 ###
 
